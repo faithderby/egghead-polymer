@@ -1,3 +1,3 @@
-`npm install`
+`npm install && bower install`
 
 `npm start`
